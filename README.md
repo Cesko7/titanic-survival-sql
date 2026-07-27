@@ -24,10 +24,10 @@ the odds depended heavily on class and sex:
 - **Children** (age 12 and under) survived at **58%**, higher than any adult
   group.
 
-## SQL skills demonstrated
+## Techniques demonstrated
 
-This project sticks to the fundamentals that matter most in day-to-day analyst
-work:
+This project sticks to the SQL fundamentals that matter most in day-to-day
+analyst work:
 
 - `SELECT`, `WHERE`, `ORDER BY`, and `LIMIT`-style filtering
 - Aggregate functions (`COUNT`, `SUM`, `AVG`) with `ROUND`
