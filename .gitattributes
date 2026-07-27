@@ -1,0 +1,7 @@
+# Language-stats overrides for GitHub Linguist.
+# The Python scripts just build the database and run the queries; the substance
+# of this project is SQL. Mark the helpers as vendored and the docs as
+# documentation so the repository's language bar reflects its SQL focus.
+*.py  linguist-vendored
+*.md  linguist-documentation
+*.sql linguist-detectable
